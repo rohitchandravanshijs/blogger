@@ -58,7 +58,6 @@
 
 .blog-content {
     font-size: 1.1rem;
-    padding: 0 2rem;
 }
 
 .blog-section {
@@ -260,7 +259,8 @@
     }
 
     .blog-content {
-        padding: 0 1rem;
+
+        
     }
 
     .blog-promo-section {
