@@ -69,6 +69,13 @@
     transition: transform 0.3s ease;
 }
 
+
+@media (max-width: 450px) {
+.blog-section {
+        padding: 1.2rem;
+}
+}
+
 .blog-section:hover {
     transform: translateY(-5px);
 }
